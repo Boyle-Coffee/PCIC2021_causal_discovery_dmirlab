@@ -1,6 +1,6 @@
-# PCIC2021_causal_discovery_gold_prize
+# PCIC2021_causal_discovery_dmirlab
 
-这是比赛“[PCIC2021 causal discovery](https://competition.huaweicloud.com/information/1000041487/introduction)”的开源代码
+这是比赛“[PCIC2021 causal discovery](https://competition.huaweicloud.com/information/1000041487/introduction)”中队伍 DMIRLAB 的开源代码
 
 在比赛过程中使用过lingam、HPCI、PC等模型，但是效果不佳，模型并未实际使用到该问题中，故无放置以上算法的代码；
 
